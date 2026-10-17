@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="420" viewBox="0 0 1800 420" role="img" aria-label="Логотип ООО «ПроМетрикаГМБХА»">
+  <title>ООО «ПроМетрикаГМБХА» — основной горизонтальный логотип</title>
+  <g transform="translate(20 20)">
+    <polygon points="190,10 330,90 330,250 190,330 50,250 50,90" fill="#F4F7F9" stroke="#142B3C" stroke-width="16" stroke-linejoin="round"/>
+    <path d="M108 257 V94 H181 C222 94 246 116 246 151 C246 186 222 207 181 207 H147" fill="none" stroke="#142B3C" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M161 253 L207 172 L250 235 L294 106 L294 253" fill="none" stroke="#F06423" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="294" cy="106" r="12" fill="#F06423"/>
+  </g>
+  <text x="410" y="184" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="700" letter-spacing="-3">
+    <tspan fill="#142B3C">ПроМетрика</tspan><tspan fill="#F06423">ГМБХА</tspan>
+  </text>
+  <rect x="414" y="220" width="1230" height="7" rx="3.5" fill="#F06423"/>
+  <text x="414" y="291" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="4" fill="#6E7F8D">ДИАГНОСТИКА  •  РЕМОНТ  •  ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ</text>
+</svg>
